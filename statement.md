@@ -17,10 +17,17 @@ While not a perfect measure of body fat or health, it is widely used as a basic 
 The calculator is easy to use, accessible online or offline, and serves as a starting point for discussions about weight and health.
 
 ● High-level features :
+
 1)User input for weight (kg) and height (m) with input validation to handle incorrect or invalid entries.
+
 2)Calculation of BMI using the standard formula: BMI = weight / (height^2).
+
 3)Classification of BMI into categories: Underweight, Normal Weight, Overweight, and Obese based on WHO standards.
+
 4)Clear display of the BMI score and corresponding classification to the user.
+
 5)Error handling with informative messages for invalid inputs.
+
 6)Simple and interactive user interface suitable for console or basic GUI.
+
 7)Portable, requiring no external dependencies, scalable for integration into larger health or fitness applications.
